@@ -69,7 +69,7 @@ with st.sidebar:
     M.Sc. Nanoscience Portfolio-Projekt
 
     **Modell:** Random Forest (200 Bäume)
-    **Training:** RRUFF `fair_oriented`
+    **Training:** RRUFF `excellent_oriented`
     **Preprocessing:** SNIP Baseline + Min-Max-Normierung
 
     **CSV-Format:**
